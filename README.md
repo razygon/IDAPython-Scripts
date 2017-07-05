@@ -1,2 +1,3 @@
-# idaproScripts
-some ida pro analyze tools
+# IDAPython-Scripts
+Some IDAPython scripts I developed for my research and work.
+
